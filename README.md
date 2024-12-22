@@ -6,26 +6,26 @@ Datos utilizados en el artículo: Cerezo, R., Bogarín, A., Esteban, M. Romero, 
 ## Codificacion.csv
 Codificacion de los eventos de bajo nivel de Moodle en acciones semánticas de alto nivel
 
-### Codificación de Alto nivel	
+#### Codificación de Alto nivel	
 Nombre de la codificación de alto nivel como evento de aprendizaje
 
-### Acciones Moodle de bajo nivel	
+#### Acciones Moodle de bajo nivel	
 Nombre de la acción de bajo nivel de Moodle
 
-### Significado de las Acciones
+#### Significado de las Acciones
 Descripción de la acciones de bajo nivel de Moodle
 
 ## LogsAnonimizados.csv
 Logs de Moodle de los estudiantes anonimizados y con las acciones de alto nivel codificadas
 
-### Time
+#### Time
 Fecha exacta del evento/acción
 
-### AnonID 
+#### AnonID 
 Identificador anonimizado del estudiante
 
-### Action
+#### Action
 Nombre del evento de aprendizaje
 
-### Information
+#### Information
 Descripcion más detallada del evento relaccionado con la acción de bajo nivel de Moodle
