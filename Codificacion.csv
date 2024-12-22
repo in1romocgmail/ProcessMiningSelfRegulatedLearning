@@ -1,0 +1,17 @@
+Codificacion de Alto nivel,Acciones Moodle de bajo nivel,Significado de las Acciones
+LEARNING,resource view,ver recurso
+WORKING,assignment upload,cargar actividad/tarea
+WORKING,quiz attempt,intento de examen
+WORKING,quiz close attempt,cerrar intento de examen
+WORKING,quiz continue attempt,continuar intentos de examen
+COMMUNICATING,forum add discussion,a¤adir discusi¢n/tema al foro
+COMMUNICATING,forum add post,a¤adir un post en una discusi¢n/tema creado en el foro
+COMMUNICATING,forum update post,actualizar post de alg£n tema/discusi¢n del foro
+COMMUNICATING,forum view discussion,ver discusi¢n/tema del foro
+COMMUNICATING,forum view forum,Ver discusiones/tema de un foro
+LEARNING,page view,ver pagina
+LEARNING,url view,ver url
+PLANNING,assignment view,ver actividad/tarea
+PLANNING,quiz view,ver examen
+PLANNING,quiz view summary,ver resumen de ex menes
+REVIEWING,quiz review,revisar examen
